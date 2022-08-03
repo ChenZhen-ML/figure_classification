@@ -1,0 +1,3 @@
+C:/Users/86176/CLionProjects/ML_detection/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/86176/CLionProjects/ML_detection/cmake-build-debug/CMakeFiles/ML_detection.dir
+C:/Users/86176/CLionProjects/ML_detection/cmake-build-debug/CMakeFiles/rebuild_cache.dir
